@@ -1,0 +1,12 @@
+# Core dependencies
+Django==4.1
+djangorestframework==3.13.1
+psycopg2-binary==2.9.3
+dj-database-url==0.5.0
+gunicorn==20.1.0
+
+# Documentation
+drf-yasg==1.20.0
+
+# Test utilities
+pytest-django
